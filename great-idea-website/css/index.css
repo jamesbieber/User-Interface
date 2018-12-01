@@ -63,4 +63,106 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+/* Code Starts Here */
+
+body {
+	margin: 2% 20% 2% 20%;
+}
+
+#nav-bar {
+	display: inline-block;
+	width: 100%;
+}
+
+#nav-bar a {
+	display: inline-block;
+	margin-right: 30px;
+	letter-spacing: 3px;
+	text-decoration: none;
+	color: grey;
+}
+
+
+.logo {
+	position: absolute;
+	margin-left: 195px;
+}
+
+header {
+	width: 100%;
+	margin-bottom: 100px;
+}
+
+#slogan {
+	display: inline-block;
+	width: 45%;
+	margin-top: 300px;
+}
+
+#slogan h1 {
+	font-size: 80px;
+	width: 300px;
+	text-align: center;
+}
+
+#slogan a {
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	margin-left: 60px;
+	padding: 1px 35px 1px 35px;
+	border: 1.5px solid black;
+}
+
+#sloganimage {
+	display: inline-block;
+	margin-left: 170px;
+	width: 20%;
+}
+
+hr {
+	border-width: 1px;
+	border-color: black;
+	width: 100%;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.sections {
+	display: inline-block;
+	width: 100%;
+}
+
+#halfsection div {
+	width: 48%;
+	display: inline-block;
+}
+
+#about {
+	margin-left: 30px;
+}
+
+.middle-img {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 100%;
+}
+
+#thirdsection div{
+	width: 31%;
+	display: inline-block;
+}
+
+#product, #vision {
+	margin-left: 31px;
+}
+
+#contact {
+	margin-top: 30px;
+}
+
+#copyright {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
